@@ -1,6 +1,6 @@
 # Reactive Programming With Spring WebFlux
 
-> Technologies involved:
+Technologies involved:
 - Spring Boot
 - Spring WebFlux
 - Spring Data R2DBC
